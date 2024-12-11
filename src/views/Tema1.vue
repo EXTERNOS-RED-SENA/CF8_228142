@@ -26,7 +26,7 @@
         p Las herramientas de diagnóstico juegan un papel importante en esta etapa, ya que permiten realizar pruebas específicas en componentes como la memoria RAM, el disco duro y la fuente de alimentación. Los programas de diagnóstico, como HWMonitor o CPU-Z, ofrecen información detallada sobre la temperatura, el voltaje y el rendimiento general del equipo. Estos programas son especialmente útiles para detectar problemas de #[i hardware] que no siempre son visibles a simple vista, como sobrecalentamiento interno o fallos en componentes eléctricos. El uso de estas herramientas facilita un diagnóstico preciso y ayuda a determinar si el problema puede resolverse mediante ajustes de configuración o si es necesario reemplazar componentes.
         .row.justify-content-center.align-items-center
           .col-lg-12.bg4.p-4 
-            p Un diagnóstico adecuado también incluye la identificación de códigos de error generados por el sistema operativo o el BIOS del equipo. Estos códigos ofrecen información sobre la naturaleza de la falla y son una referencia invaluable para los técnicos, ya que permiten acotar las posibles causas del problema. Las técnicas de troubleshooting, que implican la revisión sistemática de cada componente y la comprobación de su funcionamiento, son indispensables para verificar que todos los elementos del equipo operan de manera adecuada. Este enfoque metódico permite a los técnicos seguir un proceso ordenado, desde la identificación inicial del problema hasta su resolución final.
+            p Un diagnóstico adecuado también incluye la identificación de códigos de error generados por el sistema operativo o el BIOS del equipo. Estos códigos ofrecen información sobre la naturaleza de la falla y son una referencia invaluable para los técnicos, ya que permiten acotar las posibles causas del problema. Las técnicas de #[I troubleshooting], que implican la revisión sistemática de cada componente y la comprobación de su funcionamiento, son indispensables para verificar que todos los elementos del equipo operan de manera adecuada. Este enfoque metódico permite a los técnicos seguir un proceso ordenado, desde la identificación inicial del problema hasta su resolución final.
     
 
     //- .tabla-a debe ir acompañado de una de una de estas clases => 
@@ -113,7 +113,7 @@
                 p Entre las herramientas de #[i software] de diagnóstico más comunes se encuentran programas como MemTest86 para la evaluación de la memoria RAM, CrystalDiskInfo para monitorear el estado del disco duro, y CPU-Z para analizar el rendimiento del procesador. Estas herramientas suelen ser de fácil acceso y ofrecen una interfaz intuitiva que facilita su uso tanto para técnicos expertos como para usuarios que buscan una evaluación básica de sus equipos. Además, muchas de estas herramientas están disponibles en versiones gratuitas, lo que hace que el diagnóstico sea accesible y económico en una amplia variedad de contextos.
       .col-lg-4
         img.img-fluid.img-a(src='@/assets/curso/temas/tema1/img8.png')
-    p El uso de #[i software] de diagnóstico permite también detectar problemas de #[i software] que pueden afectar el rendimiento general del sistema. Programas como Malwarebytes y CCleaner ayudan a identificar y eliminar archivos no deseados o amenazas de malware que puedan estar ralentizando el equipo. Estas aplicaciones complementan el diagnóstico del #[i hardware] al asegurar que no existan conflictos en el sistema operativo o en el #[i software] de terceros que puedan estar impactando negativamente en el rendimiento del equipo. De esta forma, el #[i software] de diagnóstico ofrece un enfoque integral que considera tanto problemas de #[i hardware] como de #[i software].
+    p El uso de #[i software] de diagnóstico permite también detectar problemas de #[i software] que pueden afectar el rendimiento general del sistema. Programas como Malwarebytes y CCleaner ayudan a identificar y eliminar archivos no deseados o amenazas de #[i malware] que puedan estar ralentizando el equipo. Estas aplicaciones complementan el diagnóstico del #[i hardware] al asegurar que no existan conflictos en el sistema operativo o en el #[i software] de terceros que puedan estar impactando negativamente en el rendimiento del equipo. De esta forma, el #[i software] de diagnóstico ofrece un enfoque integral que considera tanto problemas de #[i hardware] como de #[i software].
     
     .row.justify-content-center.align-items-center.mb-4 
       .col-lg-4
@@ -128,6 +128,7 @@
       .col-lg-12
         figure
           img(src='@/assets/curso/temas/tema1/img10.svg', alt='La Figura 1 se denomina «Proceso de diagnóstico y solución de fallas en equipos de cómputo» y consiste en mostrar visualmente el proceso de diagnóstico y reparación de fallas en equipos de cómputo, mostrando el paso a paso desde la identificación de problemas hasta la validación final.')
+          figcaption Fuente: OIT, 2024.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-botones.mt-5

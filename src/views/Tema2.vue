@@ -94,6 +94,7 @@
       .col-lg-12
         figure
           img(src='@/assets/curso/temas/tema2/img7.svg', alt='La Figura 2 se denomina «Componentes y técnicas de reemplazo en el mantenimiento correctivo» presenta un diagrama de componentes significativos y criterios para su reemplazo en mantenimiento correctivo, mostrando RAM, almacenamiento, tarjeta gráfica y fuente de alimentación.')
+          figcaption Fuente: OIT, 2024.
 
     Separador
     #t_2_2.titulo-segundo.color-acento-botones.mt-5

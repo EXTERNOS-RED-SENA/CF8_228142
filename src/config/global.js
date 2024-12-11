@@ -155,7 +155,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228142_CF08_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -178,19 +178,19 @@ export default {
       link: 'https://www.youtube.com/watch?v=bz2J6xILf4Y',
     },
     {
-      tema: 'Software de diagnóstico',
+      tema: '<em>Software</em> de diagnóstico',
       referencia:
         'C&G Soporte Técnico. (2022, julio 8). <em>Como reparar problemas de hardware</em>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=T564hsRwaeU',
     },
     {
-      tema: 'Códigos de error y troubleshooting',
+      tema: 'Códigos de error y <em>troubleshooting</em>',
       referencia:
         'Microsoft <em>Learn Website. (2023). Windows Update error reference</em>.',
       tipo: 'Web',
       link:
-        'https://learn.microsoft.com/es-es/windows/deployment/update/windows-update-error-reference.',
+        'https://learn.microsoft.com/es-es/windows/deployment/update/windows-update-error-reference',
     },
     {
       tema: 'Identificación de problemas',
@@ -419,8 +419,7 @@ export default {
     {
       referencia:
         'TechRepublic. (2021, 2 de agosto). How to test your computer hardware and software. TechRepublic. ',
-      link:
-        'https://www.techrepublic.com/article/how-to-test-your-computer-hardware-and-software',
+      link: '',
     },
   ],
 }
